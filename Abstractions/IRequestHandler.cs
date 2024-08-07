@@ -1,7 +1,7 @@
 ﻿namespace CustomMediatR.library.Abstractions
 {
-    public interface IRequestHandler<IRequest,TResponse> where IRequest : IRequest<TResponse>
+    public interface IRequestHandler<TRequest,TResponse> where TRequest : IRequest<TResponse>
     {
-        Task<TResponse> Handle(IRequest request);
+        Task<TResponse> Handle(TRequest request);
     }
 }
