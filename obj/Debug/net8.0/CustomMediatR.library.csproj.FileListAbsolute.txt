@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CustomMediatR.library\bin\Debug\net8.0\CustomMediatR.library.deps.json
+C:\Users\User\source\repos\CustomMediatR.library\bin\Debug\net8.0\CustomMediatR.library.dll
+C:\Users\User\source\repos\CustomMediatR.library\bin\Debug\net8.0\CustomMediatR.library.pdb
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.dll
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\refint\CustomMediatR.library.dll
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\CustomMediatR.library.pdb
+C:\Users\User\source\repos\CustomMediatR.library\obj\Debug\net8.0\ref\CustomMediatR.library.dll
